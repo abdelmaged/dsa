@@ -1,0 +1,12 @@
+add_library(data_structure
+  linked_list.cpp
+  hash_node_open.cpp
+  hash_table_open.cpp
+  hash_node_closed.cpp
+  hash_table_closed.cpp
+  union_find.cpp
+  matrix.cpp
+  avl.cpp
+  heap.cpp
+  segment_tree.cpp
+)
